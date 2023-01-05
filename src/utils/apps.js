@@ -299,6 +299,12 @@ const apps = [
     type: "app",
     action: "DISCORD",
   },
+  {
+    name: "Rift",
+    icon: "rift",
+    type: "app",
+    action: "RIFT",
+  },
 ];
 
 for (let i = 0; i < installed.length; i++) {
