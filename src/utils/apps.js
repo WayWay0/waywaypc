@@ -47,13 +47,6 @@ const apps = [
     action: "MSEDGE",
   },
   {
-    name: "Buy me a coffee",
-    icon: "buyme",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
-  },
-  {
     name: "Store",
     icon: "store",
     type: "app",
@@ -97,11 +90,6 @@ const apps = [
     type: "app",
   },
   {
-    name: "Feedback",
-    icon: "feedback",
-    type: "app",
-  },
-  {
     name: "Get Started",
     icon: "getstarted",
     type: "app",
@@ -113,23 +101,9 @@ const apps = [
     type: "app",
   },
   {
-    name: "Help",
-    icon: "help",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://win11react-docs.andrewstech.me/",
-  },
-  {
     name: "Yammer",
     icon: "yammer",
     type: "app",
-  },
-  {
-    name: "Mail",
-    icon: "mail",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "mailto:blueedgetechno@gmail.com",
   },
   {
     name: "Movies",
@@ -193,13 +167,6 @@ const apps = [
     type: "app",
   },
   {
-    name: "Pinterest",
-    icon: "pinterest",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://www.pinterest.com/blueedgetechno/",
-  },
-  {
     name: "Security",
     icon: "security",
     type: "app",
@@ -224,13 +191,6 @@ const apps = [
     name: "Snipping Tool",
     icon: "snip",
     type: "app",
-  },
-  {
-    name: "Twitter",
-    icon: "twitter",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://twitter.com/blueedgetechno",
   },
   {
     name: "Teams",
@@ -278,13 +238,6 @@ const apps = [
     name: "Cortana",
     icon: "cortana",
     type: "app",
-  },
-  {
-    name: "Github",
-    icon: "github",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://github.com/blueedgetechno/win11React",
   },
   {
     name: "Unescape",
