@@ -17,7 +17,7 @@ const defState = {
     },
   },
   person: {
-    name: "Blue Edge",
+    name: "Rift PC",
     theme: "light",
     color: "blue",
   },
